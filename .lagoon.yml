@@ -5,4 +5,5 @@ environments:
       - nginx:
         - marco-test.test6.amazee.io
         - foo.marco-test6.amazeeio.review
+        - bar.marco-test6.amazeeio.review
         - foo.test6.amazeeio.review
