@@ -1,1 +1,6 @@
 docker-compose-yaml: docker-compose.yml
+environments:
+  main:
+    routes:
+      - nginx:
+        - marco-test.test6.amazee.io
